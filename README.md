@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-A recent graduate with Division A Second Class Honours at the University of Melbourne with a Bachelor of Science in Computing and Software Systems. I bring strong technical expertise in programming languages like Java, Python, JavaScript and C complemented by a solid foundation in computer science principles. My professional experience in managerial positions has honed my leadership, teamwork, and communication skills, enabling me to thrive in fast-paced environments.
+A recent graduate with Division A Second Class Honours at the University of Melbourne with a Bachelor of Science in Computing and Software Systems. I bring strong technical expertise in programming languages like Java, Python, JavaScript and C complemented by a solid foundation in computer science principles. 
+
+My professional experience in managerial positions has honed my leadership, teamwork, and communication skills, enabling me to thrive in fast-paced environments.
 
 <!--
 **andywelly/andywelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
